@@ -1,9 +1,9 @@
 name: flutter_optimized_particles
 description: High-performance particle system for Flutter games with automatic battery optimization. Eliminates setState() calls and auto-pauses when app backgrounds.
 version: 0.1.0
-homepage: https://github.com/yourusername/flutter_optimized_particles
-repository: https://github.com/yourusername/flutter_optimized_particles
-issue_tracker: https://github.com/yourusername/flutter_optimized_particles/issues
+homepage: https://github.com/fctpe/flutter_optimized_particles
+repository: https://github.com/fctpe/flutter_optimized_particles
+issue_tracker: https://github.com/fctpe/flutter_optimized_particles/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
